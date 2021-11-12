@@ -1,0 +1,4 @@
+baseURL = 'https://MAlejandroR/ej1/docs/'
+languageCode = 'en-us'
+title = 'Ejemplo de despliegue de hugo'
+theme="relearn"
