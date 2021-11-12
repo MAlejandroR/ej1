@@ -1,4 +1,4 @@
-baseURL = 'https://MAlejandroR/ej1/docs/'
+baseURL = 'https://malejandror.github.io/ej1/'
 languageCode = 'en-us'
 title = 'Ejemplo de despliegue de hugo'
 theme="relearn"
